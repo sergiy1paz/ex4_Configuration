@@ -1,0 +1,52 @@
+{
+  "employees": {
+    "em1": {
+      "name": "Sergiy",
+      "age": 19,
+      "salary": 500,
+      "languages": [
+        "English",
+        "Ukrainian",
+        "Russian"
+      ],
+      "company": {
+        "title": "Existek",
+        "address": "some address",
+        "employees": 50
+      }
+    },
+
+    "em2": {
+      "name": "Vitaliy",
+      "age": 40,
+      "salary": 1500,
+      "languages": [
+        "Ukrainian",
+        "Russian"
+      ],
+      "company": {
+        "title": "Some Company",
+        "address": "some address",
+        "employees": 20
+      }
+    }
+  },
+
+  "customers": {
+    "cust1": {
+      "name": "Igor",
+      "age": 29,
+      "salary": 2000,
+      "languages": [
+        "English",
+        "Ukrainian",
+        "Russian"
+      ],
+      "company": {
+        "title": "IBM",
+        "address": "some address",
+        "employees": 1500
+      }
+    }
+  }
+}

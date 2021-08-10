@@ -1,0 +1,21 @@
+Name = Sergiy
+Age = 19
+Salary = 500
+Languages: 
+	English
+	Ukrainian
+	Russian
+Company title = Existek
+Address = some address
+Number of employees = 50
+
+Name = Vitaliy
+Age = 40
+Salary = 1500
+Languages: 
+	Ukrainian
+	Russian
+Company title = Some Company
+Address = some address
+Number of employees = 20
+
