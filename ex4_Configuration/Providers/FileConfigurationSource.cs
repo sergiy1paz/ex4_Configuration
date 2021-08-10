@@ -20,7 +20,7 @@ namespace ex4_Configuration.Providers
         {
             //string filePath = builder.GetFileProvider().GetFileInfo(_filePath).PhysicalPath;
 
-            /*
+            /**
              * В цьому місці передаю лише назву файлу в провайдер для того, 
              * щоб можна було зберегти файл в папці проекту 
              * а не в папці з exe - файлом (../bin/Debug/net5.0).

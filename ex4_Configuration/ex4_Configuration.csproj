@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="bin\Debug\net5.0\conf.ini" />
+    <Folder Include="bin\Debug\net5.0\" />
   </ItemGroup>
 
 </Project>
